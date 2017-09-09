@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+	<record id="inherit_view_general_configuration" model="ir.ui.view">
+		<field name="name">General Settings</field>
+		<field name="model">base.config.settings</field>
+		<field name="inherit_id" ref="base_setup.view_general_configuration" />
+		<field name="arch" type="xml">
+			<xpath expr="//form" position="inside">
+				<group name="restrict_export" string="Restrict Export">
+					<label for="id" string="Restrict Export Models" />
+					<div name="restrict_models">
+						<field name="restrict_models"></field>
+					</div>
+				</group>
+			</xpath>
+		</field>
+	</record>
+
+</odoo>

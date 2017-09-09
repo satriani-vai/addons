@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<odoo>
+	<data>
+
+		<record id="export_data_group" model="res.groups" >
+			<field name="name">Export Data Group</field>
+		</record>
+
+	</data>
+</odoo>
