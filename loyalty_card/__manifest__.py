@@ -7,8 +7,8 @@
 
 {
     'name': 'Loyalty Card',
-    'version': '1.0',
-    'category': 'OdooBro',
+    'version': '1.1',
+    'category': 'OdooBro Apps',
     'description': """
 Manage loyalty card
     """,
