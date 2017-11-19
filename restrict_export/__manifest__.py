@@ -11,7 +11,7 @@
     'description': """
 This module restrict export data of users.
     """,
-    'author': 'OdooBro',
+    'author': 'OdooBro - odoobro.contact@gmail.com',
     'website': 'http://www.odoobro.com',
     'depends': [
         'base',
