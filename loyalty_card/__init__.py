@@ -5,6 +5,6 @@
 #
 ##############################################################################
 
-import data
-import model
-import wizards
+from . import data
+from . import model
+from . import wizards
