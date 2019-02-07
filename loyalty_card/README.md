@@ -1,6 +1,6 @@
 # Loyalty Card Module
 
-*Odoo 10.0 Community*
+*Odoo 12.0 Community*
 *Author: OdooBro - odoobro.contact@gmail.com*
 
 # Description
